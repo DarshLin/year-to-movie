@@ -1,4 +1,4 @@
-#### How to execute
+### How to execute
 - Create .env file with the following
     - Port=3000 (Can change to something else if you want)
     - TMDB_API_KEY=`[Your API Key for TMDB]`
